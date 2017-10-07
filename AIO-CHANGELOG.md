@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project is a plugin for [RaccoonBot Attack Algorithm](https://www.raccoonbot.com/forum/topic/24589-all-in-one-push-deploy/).
 
-## [2.0.7.412](https://www.raccoonbot.com/forum/topic/24589-all-in-one-push-deploy/).
+## [2.0.7.412](https://www.raccoonbot.com/forum/topic/24589-all-in-one-push-deploy/). - 07 OCT 2017
 ### Added:
 - New option to use rage spells on funnelling troops.
 - Clone spell support for air attacks.
@@ -16,15 +16,15 @@ and this project is a plugin for [RaccoonBot Attack Algorithm](https://www.racco
 - Wizard deployment if there is bowlers . wil drom one on each funnelling side and the rest are for center.
 - Funnelling points is now wider.
 
-## [2.0.7.408](https://github.com/cobratst/GoblinKnifeDeployAddon/raw/master/AllInonePushDeploy_2.0.7.408.zip).
+## [2.0.7.408](https://github.com/cobratst/GoblinKnifeDeployAddon/raw/master/AllInonePushDeploy_2.0.7.408.zip). - 28 SEP 2017
 ### Fixed:
 - Deploy Order if there are no giants.
 
-## [2.0.7.406](https://github.com/cobratst/GoblinKnifeDeployAddon/raw/master/AllInonePushDeploy_2.0.7.406.zip).
+## [2.0.7.406](https://github.com/cobratst/GoblinKnifeDeployAddon/raw/master/AllInonePushDeploy_2.0.7.406.zip). - 26 SEP 2017
 ### Fixed:
 - issue with 2.0.7.404 jump spell deployed on EQ drop point.
 
-## [2.0.7.402](https://github.com/cobratst/GoblinKnifeDeployAddon/raw/master/AllInOnPushDeploy_2.0.7.402.zip).
+## [2.0.7.402](https://github.com/cobratst/GoblinKnifeDeployAddon/raw/master/AllInOnPushDeploy_2.0.7.402.zip). - 11 SEP 2017
 ### Fixed:
 - If EQ will overlap with jump spell we move it to inside to cover better erea.
 - Red message after deploying second rage.
