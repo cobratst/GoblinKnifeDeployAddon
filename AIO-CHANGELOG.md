@@ -17,6 +17,7 @@ and this project is a plugin for [RaccoonBot Attack Algorithm](https://www.racco
 ### Changed:
 - Wizard deployment if there is bowlers . will drop one on each funnelling side and the rest are for center.
 - Air funnelling points is now from corners.
+- Delay heroes deployment in air attacks to make sure funnell was created and they goto the core of the base.
 
 ## [2.0.7.408](https://github.com/cobratst/GoblinKnifeDeployAddon/raw/master/AllInonePushDeploy_2.0.7.408.zip). - 28 SEP 2017
 ### Fixed:
