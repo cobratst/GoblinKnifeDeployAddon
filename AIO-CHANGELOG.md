@@ -8,7 +8,7 @@ and this project is a plugin for [RaccoonBot Attack Algorithm](https://www.racco
 ### Added:
 - New option to use rage spells on funnelling troops.
 - Clone spell support for air attacks.
-- Debug screenshot if attack from bottom right side to analysis the our new generated points.
+- Debug screenshot if attack from bottom right side to analysis the new generated points.
 - Option to avoid bottom right side if you have issues with it.
 ### Fixed:
 - Bottom right side attacks is now available after generating our own deployment points.
