@@ -13,10 +13,10 @@ and this project is a plugin for [RaccoonBot Attack Algorithm](https://www.racco
 ### Fixed:
 - Bottom right side attacks is now available after generating our own deployment points.
 - Second jump spell location is now based on better walls detection.
-- Timing for deploying 2ed jump spell is now before clanCastle,heroes and normal troops.
+- Timing for deploying 2nd jump spell is now before clanCastle,heroes and normal troops.
 ### Changed:
-- Wizard deployment if there is bowlers . wil drop one on each funnelling side and the rest are for center.
-- Air funnelling points is now from corners 
+- Wizard deployment if there is bowlers . will drop one on each funnelling side and the rest are for center.
+- Air funnelling points is now from corners.
 
 ## [2.0.7.408](https://github.com/cobratst/GoblinKnifeDeployAddon/raw/master/AllInonePushDeploy_2.0.7.408.zip). - 28 SEP 2017
 ### Fixed:
