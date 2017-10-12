@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project is a plugin for [RaccoonBot Attack Algorithm](https://www.raccoonbot.com/forum/topic/24589-all-in-one-push-deploy/).
 
-## [2.0.7.413](https://github.com/cobratst/GoblinKnifeDeployAddon/raw/master/AllInOnePushDeploy_2.0.7.413.zip). - 07 OCT 2017
+## [2.0.7.413](https://github.com/cobratst/GoblinKnifeDeployAddon/raw/master/AllInOnePushDeploy_2.0.7.413.zip). - 12 OCT 2017
 ### Added:
 - New option to use rage spells on funnelling troops.
 - Clone spell support for air attacks.
