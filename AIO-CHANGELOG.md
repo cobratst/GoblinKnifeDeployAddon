@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project is a plugin for [RaccoonBot Attack Algorithm](https://www.raccoonbot.com/forum/topic/24589-all-in-one-push-deploy/).
 
-##[2.1.4.417]
+## [2.0.7.415](https://github.com/cobratst/GoblinKnifeDeployAddon/blob/master/AllInOnePushDeploy.2.1.4.417.zip). 07 july 2018
 ### Added:
 - Suport for Electro Dragon.
 - Force zoom out before attack.
